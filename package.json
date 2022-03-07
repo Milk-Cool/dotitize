@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "jimp": "^0.16.1"
+  },
+  "name": "dotitize",
+  "version": "1.0.0",
+  "description": "Lets you to conver an image into a group of dots symbols.",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "nodejs main.js"
+  },
+  "keywords": [
+    "dotitize",
+    "dot",
+    "image",
+    "convert"
+  ],
+  "author": "Milk_Cool",
+  "license": "ISC"
+}
