@@ -12,7 +12,7 @@ To convert an image, run:
 npm start [filename]
 ```
 Filename is "input.png" by default.<br>
-To **save to a file**, use:
+To **save the output to a file**, use:
 ```bash
 npm start [filename] > [output filename]
 ```
